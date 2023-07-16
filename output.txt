@@ -1,52 +1,48 @@
-<span id="top"></span>
-<div id="siteNotice">
-</div>
-<div class="mw-indicators">
-</div>
-<span id="firstHeading"></span>
-= <span class="mw-page-title-main">Helix Piercing</span> =
-<div id="bodyContent" class="vector-body">
-<div id="siteSub" class="noprint">
-From BME Encyclopedia
-</div>
-<div id="contentSub">
-</div>
-<div id="contentSub2">
-</div>
-<div id="jump-to-nav">
-</div>
-[[#mw-head|Jump to navigation]]
-[[#searchInput|Jump to search]]
-<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr">
-<div class="mw-parser-output">
-<div id="mw-content-text" class="mw-content-ltr" dir="ltr" lang="en">
-[[File:Helix_Piercing-1.jpg|thumb|right|Helix Piercing]]
-The '''helix piercing''' is any piercing through the rim of the [[index.php?title=Cartilage|cartilage]] (thus making it susceptible to complications such as [[index.php?title=Ear_Collapse|Ear Collapse]] if care is not taken to use proper tools and procedures; for example, [[index.php?title=Piercing_gun|Piercing guns]] have been shown to be capable of causing cartilage to shatter). The innermost part of the helix (closest to the head) is sometimes called an [[index.php?title=Ear_Head_Piercing|Ear Head Piercing]].
-[[index.php?title=Paul_King|Paul King]] adds,
-{{quote|&quot;In the West the helix piercing is considered only as adornment. However, helix piercings are found on every continent and in many traditional cultures have great importance.
-The [[index.php?title=Dayak|Dayak]] of [[index.php?title=Borneo|Borneo]] (tribal names such as [[index.php?title=Iban|Iban]] and [[index.php?title=Punan&action=edit&redlink=1|Punan]]) would wear bear canines in their upper ear cartilage, often connected with intricate bead work. This was considered a sign of a brave headhunter. In the Lmasala clan of the [[index.php?title=Samburu&action=edit&redlink=1|Samburu]] (Kenya), the mothers of warriors wear their sons' circumcision earrings in their cartilage during their warriorhood.&quot;}}
-* 
-<span id="alternative-names"></span>
-== <span id="Alternative_Names" class="mw-headline"> Alternative Names </span> ==
-; Ear Head Piercing
-: a [[index.php?title=Local_Term|local term]] for '''helix piercings''' along the inner rim of the ear (ie. closest to the head). The earliest documented one in modern piercing was done by [[index.php?title=Crystal_Cross&action=edit&redlink=1|Crystal Cross]] on [[index.php?title=Elayne_Angel|Elayne Angel]].
-<span id="see-also"></span>
-== <span id="See_Also" class="mw-headline"> See Also </span> ==
-* [[index.php?title=Ear_Spiral|Ear Spiral]]
-<span id="related-risks"></span>
-== <span id="Related_Risks" class="mw-headline"> Related Risks </span> ==
-* [[index.php?title=Bell%27s_Palsy|Bell's Palsy]]
-* [[index.php?title=Ear_Collapse|Ear Collapse]]
-* [[index.php?title=Loss_of_Hearing|Loss of Hearing]]
-* [[index.php?title=Piercing_Gun|Piercing Gun]]
-* [[index.php?title=Piercing_Studs|Piercing Studs]]
-* [[index.php?title=Rejection|Rejection]]
-</div>
-</div>
-<div class="printfooter" nosnippet="">
-Retrieved from &quot;https://wiki.bme.com/index.php?title=Helix_Piercing&oldid=2123&quot;
-</div>
-</div>
-<div id="catlinks" class="catlinks catlinks-allhidden" mw="interface">
-</div>
-</div>
+{| class="wikitable toccolours" border="0" style="width:200px;float:right;margin:10px;"
+|-
+! colspan="2"| ''Coma''
+|-
+! colspan="2"| [[index.php?title=File:Comamovie.jpg|[[File:/images/thumb/a/ae/Comamovie.jpg/100px-Comamovie.jpg|100x182px|Comamovie.jpg]]]]
+|-
+| style="vertical-align: top"| '''Director'''
+| Michael Crichton
+|-
+| style="vertical-align: top"| '''Runtime'''
+| 113 mins
+|-
+| style="vertical-align: top"| '''Country'''
+| USA
+|-
+| style="vertical-align: top"| '''Language'''
+| English
+|-
+| style="vertical-align: top"| '''Rating'''
+| USA:PG
+Australia:M
+UK:AA (original)
+UK:15 (video)
+|-
+| style="vertical-align: top"| '''Genre'''
+| Thriller / Mystery
+|-
+| style="vertical-align: top"| '''Year of Release'''
+| style="vertical-align: top"| [[index.php?title=1978|1978]]
+|-
+| style="vertical-align: top"| '''DVD Release Date'''
+| style="vertical-align: top"|
+|-
+| colspan="2" style="text-align: center;"| [https://imdb.com/title/tt0077355/ Coma at IMDB]
+|}
+'''Coma''' is a movie directed by Michael Crichton, featuring scenes of people appearing to be suspended in this manner. [[index.php?title=Allen_Falkner|Allen Falkner]] is quoted as commenting, &quot;''the poster image is still stuck in my head from when I was a kid'',&quot; thus giving the [[index.php?title=Suspension|suspension]] its name.
+A [[index.php?title=Coma_Suspension|Coma Suspension]] is a [[index.php?title=Horizontal_Suspension|Horizontal Suspension]] where the hooks are pierced through the front of the body, so the person floats on their back, as if in an isolation tank.
+'''ISBN:''' 0790743671 ([https://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/0790743671&tag=bmeencycloped-20 Find this at ''Amazon.com''])
+==  Summary  ==
+From [https://imdb.com/title/tt0077355/ IMDB]:
+Dr Susan Wheeler (Geneviève Bujold) is devastated when her best friend is pronounced brain dead after minor surgery at her hospital. Looking at the records, Susan finds that over the previous year a number of other fit young people have ended up the same way. She comes across two similarities to the cases - they all took place in the same operating theatre, and all the comatose bodies were moved to somewhere called the Jefferson Institute. She continues to investigate increasingly alone, starting to wonder if she can trust even her own boyfriend.
+Summary written by [[cdn-cgi/l/email-protection|[email protected]]]
+==  Stills  ==
+<gallery>
+Comamovie1.jpg|Coma
+Comamovie2.jpg|Coma
+Comamovie3.jpg|Coma
+</gallery>
