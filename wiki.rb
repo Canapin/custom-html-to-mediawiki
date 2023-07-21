@@ -36,7 +36,17 @@ doc.css('div[class^="float"]').each do |float_div|
   filename = float_div.at_css('.image')['href'].split('File:').last 
 
   # Replace the float div with the MediaWiki image syntax
+  align = 'center' if align == 'none'
   float_div.replace("[[File:#{filename}|frameless|#{align}]]")
+end
+
+# Handle centered images that aren't thumbnails
+doc.css('center').each do |center|
+  # Extract filename
+  filename = center.at_css('.image')['href'].split('File:').last 
+
+  # Replace the float div with the MediaWiki image syntax
+  center.replace("[[File:#{filename}|center]]")
 end
 
 # Find each remaining 'thumb' div
